@@ -6,7 +6,7 @@ The machine learning language used here is Octave.\
 As this is a assignment, some part of this is written by the TA's.\
 The code is written on MATLAB and to run the written code, download or fork the repository and run the code on MATLAB.    
 See the file "about.pdf" for more details and explanations.  
-
+## I did not write the entire script, only the assignment snippets of sigmoidGradient.m, sigmoid.m, randInitializeWeights.m & nnCostFunction.m
 # Files Included:
 ex4.m - Octave/MATLAB script that steps you through the exercise\
 ex4data1.mat - Training set of hand-written digits\
